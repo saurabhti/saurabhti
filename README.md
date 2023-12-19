@@ -1,5 +1,6 @@
 ### Hi there, I am Saurabh Tiwari 👋
 
+- 👨‍💻 I’m a frontend developer with sharp designing skills.
 - 🔭 I’m currently working on Rubico IT.
 - 🌱 I’m currently learning Vuejs.
 - 👯 I’m looking to collaborate on my projects.
